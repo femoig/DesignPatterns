@@ -7,7 +7,7 @@ namespace DesignPatterns
     {
         static void Main(string[] args)
         {
-            
+            TemplateMethod.Main main = new TemplateMethod.Main();
         }
     }
 }
